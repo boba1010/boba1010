@@ -21,7 +21,7 @@ I build end-to-end software across the entire .NET ecosystem—from fast, full-s
 * **Languages:** C#, HTML/CSS, JavaScript, SQL, HLSL / GLSL
 * **Web & Backend:** ASP.NET Core, Blazor, Minimal APIs, REST APIs, SignalR
 * **Desktop & Cross-Platform:** .NET MAUI, WinUI 3, Windows App SDK, XAML
-* **Graphics & Engines:** Silk.NET, Vulkan, OpenGL, Custom Engine Architecture
+* **Graphics & Engines:** Silk.NET, Vulkan, OpenGL, D3D, Custom Engine Architecture
 * **Approach:** Full-stack .NET development, independent software architecture, and high-performance native code
 
 ---
