@@ -13,6 +13,7 @@ I build end-to-end software across the entire .NET ecosystem—from fast, full-s
 * **[WinUI-installer](https://github.com/boba1010/WinUI-installer)** — Modern, native Windows application installer engineered with WinUI 3.
 * **[Visual-Block-Studio](https://github.com/boba1010/Visual-Block-Studio)** — Visual programming and node-based studio environment built in C#.
 * **[CSharp_Interactive_learning_Platform](https://github.com/boba1010/CSharp_Interactive_learning_Platform)** — Interactive environment designed for hands-on C# learning and code execution.
+* **[Nativefy](https://github.com/boba1010/Nativefy)** — A local Youtube client built completely in WinUI 3 for Windows.
 
 ---
 
